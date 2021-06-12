@@ -1,0 +1,17 @@
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    
+}
+.nav_bg{
+    background: transparent;
+
+}
+header{
+    background-image: url('../imgs_drawable-mdpi/pexels-scott-webb-593158.jpg');
+}
+

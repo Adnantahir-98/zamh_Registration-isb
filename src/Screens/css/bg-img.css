@@ -1,0 +1,19 @@
+
+.service_after_img-bg{
+    background-image: url('../imgs/chris-dickens-aCdnDdJ31e4-unsplash.png');
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 35vh;
+    margin: 45px 0 45px 0;
+}
+
+
+@media screen and (max-width: 480px) {
+.req_text{
+    float: left;
+}
+
+
+}
+
