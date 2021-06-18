@@ -10,16 +10,16 @@ function Footer() {
                 <div className="container">
                     <div className="row my-4">
                         <div className="col-md-3">
-                            <Link to="/" className="text-white"><h5>Terms & Conditions</h5></Link>
+                            <Link to="/termsconditions" className="text-white"><h5>Terms & Conditions</h5></Link>
                         </div>
                         <div className="col-md-3">
-                            <Link to="/" className="text-white"><h5>Privacy Policy</h5></Link>
+                            <Link to="/privacypolicy" className="text-white"><h5>Privacy Policy</h5></Link>
                         </div>
                         <div className="col-md-3">  
-                            <Link to="/" className="text-white"><h5>FAQ's</h5></Link>
+                            <Link to="/faq" className="text-white"><h5>FAQ's</h5></Link>
                         </div>
                         <div className="col-md-3">  
-                            <Link to="/" className="text-white"><h5>Our Partners</h5></Link>
+                            <Link to="/ourpartners" className="text-white"><h5>Our Partners</h5></Link>
                         </div>
                     </div>
                 </div>
